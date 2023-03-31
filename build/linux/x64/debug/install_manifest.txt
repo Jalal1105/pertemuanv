@@ -1,0 +1,11 @@
+/home/almunawar/Kuliah/Prak Mobile/pertemuan_lima/Navigasi-Layouting-FlutterUI/build/linux/x64/debug/bundle/pertemuan_v
+/home/almunawar/Kuliah/Prak Mobile/pertemuan_lima/Navigasi-Layouting-FlutterUI/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/almunawar/Kuliah/Prak Mobile/pertemuan_lima/Navigasi-Layouting-FlutterUI/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/almunawar/Kuliah/Prak Mobile/pertemuan_lima/Navigasi-Layouting-FlutterUI/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/almunawar/Kuliah/Prak Mobile/pertemuan_lima/Navigasi-Layouting-FlutterUI/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/almunawar/Kuliah/Prak Mobile/pertemuan_lima/Navigasi-Layouting-FlutterUI/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/almunawar/Kuliah/Prak Mobile/pertemuan_lima/Navigasi-Layouting-FlutterUI/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/almunawar/Kuliah/Prak Mobile/pertemuan_lima/Navigasi-Layouting-FlutterUI/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/almunawar/Kuliah/Prak Mobile/pertemuan_lima/Navigasi-Layouting-FlutterUI/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/almunawar/Kuliah/Prak Mobile/pertemuan_lima/Navigasi-Layouting-FlutterUI/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/almunawar/Kuliah/Prak Mobile/pertemuan_lima/Navigasi-Layouting-FlutterUI/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
